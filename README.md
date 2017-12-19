@@ -12,3 +12,4 @@ javascript boilerplate.
 - [] npm automation (work on more.)
 - [x] upgrade to babel-node so I can take advantage of es6 javascript.
 - [ ] build some gulp scripts (later)
+- [ ] still working on this project. incomplete.
