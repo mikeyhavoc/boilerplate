@@ -4,4 +4,4 @@ javascript boilerplate.
 
 ## Build
 
-[x] editorconfig
+- [x] editorconfig
